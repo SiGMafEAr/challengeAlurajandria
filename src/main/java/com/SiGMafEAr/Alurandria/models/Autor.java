@@ -67,7 +67,6 @@ public class Autor {
             librosTitulos.append(libro.getTitulo()).append(", ");
         }
 
-        // Eliminar la última coma y espacio
         if (!librosTitulos.isEmpty()) {
             librosTitulos.setLength(librosTitulos.length() - 2);
         }
