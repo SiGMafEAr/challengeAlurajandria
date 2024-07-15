@@ -1,17 +1,16 @@
-# ALURANDRIA
+# 
 
 ![ALURANDRIA](images/Alurandria_banner.png)
 
 
 ## Descripción
 
-Este proyecto permite al usuario realizar la busqueda de una gran cantidad y gama de Libros a través de una API externa. Toda vez que el Título del libro es encontrado se agrega de forma automática a la base de datos Local.
+Este proyecto permite al usuario realizar la busqueda de una gran cantidad y gama de Libros a través de la API https://gutendex.com/.
 
 El sistema:
 - Muestra un menú con opciones para la busqueda de los Libros deseados.
 - Guarda la relación de los libros con los Autores de los mismos.
 - Garantiza que no haya duplicidad tanto de Libros así como de Autores, ya registrados en la base de Datos Local.
-- Muestra diferentes opciones de consulta, así como el top 10 de Títulos de Libros mas descargados desde la API Externa.
 
 ## Tecnologías Utilizadas
 
